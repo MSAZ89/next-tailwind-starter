@@ -6,9 +6,9 @@ This is a starter project for Nextjs with Tailwind CSS and Navigation. It is bas
 
 ## Getting Started
 
-### npm install
+npm install
 
-### npm run dev
+npm run dev
 
 ## Features
 
