@@ -1,6 +1,6 @@
 # Tailwind & Nextjs Starter with Navigation
 
-This is a starter project for Nextjs with Tailwind CSS and Navigation. It is based on the [Next.js with Tailwind CSS]
+This is a boilerplate template for Next.js and TailwindCSS with basic navigation.
 
 - [Demo](https://next-tailwind-starter-with-navigation.vercel.app/)
 
