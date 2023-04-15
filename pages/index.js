@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Navigation reverseOrder />
-      <main className="bg-slate-50 p-8 flex flex-col gap-4">
+      <main className="bg-slate-50 p-8 flex flex-col gap-4 my-16">
         <h1 className="text-4xl font-bold text-center">Home Page</h1>
         <p className="lg:w-1/2 mx-auto">
           It is a long established fact that a reader will be distracted by the

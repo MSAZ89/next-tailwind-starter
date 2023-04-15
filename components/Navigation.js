@@ -14,7 +14,7 @@ export default function Navigation({ reverseOrder }) {
   };
 
   return (
-    <div className="container mx-auto mb-16">
+    <div className="container mx-auto">
       <nav className="flex justify-around items-center fixed top-0 left-0 right-0 bg-white text-black h-16 z-10 border-b border-slate-200">
         {reverseOrder && <p className="md:flex">Company Name</p>}
         <ul className="md:flex gap-2 flex-wrap hidden">

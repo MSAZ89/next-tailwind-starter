@@ -1,10 +1,8 @@
 # Tailwind & Nextjs Starter with Navigation
 
-This is a starter project for Nextjs with Tailwind CSS and Navigation. It is based on the [Next.js with Tailwind CSS](
+This is a starter project for Nextjs with Tailwind CSS and Navigation. It is based on the [Next.js with Tailwind CSS]
 
-[...]
-
-) example.
+- [Demo](https://nextjs.org/)
 
 ## Getting Started
 
