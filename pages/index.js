@@ -2,7 +2,7 @@ import Navigation from "../components/Navigation";
 import NavFooter from "../components/NavFooter";
 
 export default function Home() {
-  const test = [1, 2, 3];
+  const test = ["test", 2, 3];
 
   return (
     <>
